@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """mini operations"""
 
-# function for mini operation
+
 def minOperations(n):
     if n <= 1:
         return 0
