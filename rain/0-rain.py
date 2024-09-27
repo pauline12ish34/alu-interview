@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""calculates how much rain will be trapped after it rains
+import pep8
+"""trapped rain
 """
 
 def rain(walls):
-    """calculates how much rain will be trapped after it rains
-    """
+    """calculating rain """
     if not walls or len(walls) < 3:
         return 0
 
