@@ -3,6 +3,7 @@ import pep8
 """trapped rain
 """
 
+
 def rain(walls):
     """calculating rain """
     if not walls or len(walls) < 3:
